@@ -1,0 +1,6 @@
+{
+  "name": "PMSGY-MBY JEHANABAD",
+  "description": "PMSGY-MBY Jehanabad District Administration Portal App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
